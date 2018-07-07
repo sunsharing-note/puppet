@@ -1,0 +1,8 @@
+# 常用命令
+puppet help 获取帮助
+puppet help apply 查看子命令用法
+puppet describe -l 查看支持的类型
+puppet describe user 查看相关信息
+puppet describe -s user 查看大概信息
+ puppet describe -s -m user 查看元属性 可看该资源可带参数
+ 
